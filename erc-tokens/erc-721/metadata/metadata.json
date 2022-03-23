@@ -1,0 +1,79 @@
+[ {
+    "name": "OG Atadians #2358",
+    "image": "https://gateway.pinata.cloud/ipfs/QmTygzE9f24FsLLgzqqHL8Yy4kUhfuuStnf7LYyX8FDbxm",
+    "description": "Atadia is a collective analytics NFT project centered around a lore-filled, post-singularity world. Holders receive pencil-drawn PFP art, exposure to drive and share the success of our analytics business, and $ATA passive income with turn-based alternate reality game mechanics.",
+    "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Building II (Solana)  UR"
+        },
+        {
+          "trait_type": "Wing",
+          "value": "Bird II (Dark)  R"
+        },
+        {
+          "trait_type": "Face and Hair",
+          "value": "Civilian III  Faceless edition (Light)  R"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Droids  Solana  UR"
+        },
+        {
+          "trait_type": "Accessory",
+          "value": "Paint Brush  N"
+        },
+        {
+          "trait_type": "Headgear",
+          "value": "Unity  R"
+        },
+        {
+          "trait_type": "Foreground",
+          "value": "Forest (Dark)  R"
+        },
+        {
+          "trait_type": "Picture Frame",
+          "value": "Single (Light)  N"
+        }
+      ]
+  },
+  {
+    "name": "OG Atadians #298",
+    "image": "https://gateway.pinata.cloud/ipfs/QmYrJiNnekG9HJ2b8qqQo32Kx3Ky2Luf3NJfCfi4iYjZcL",
+    "description": "Atadia is a collective analytics NFT project centered around a lore-filled, post-singularity world. Holders receive pencil-drawn PFP art, exposure to drive and share the success of our analytics business, and $ATA passive income with turn-based alternate reality game mechanics.",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Bacteria (Gray)  R"
+      },
+      {
+        "trait_type": "Wing",
+        "value": "Bird I (Dark)  R"
+      },
+      {
+        "trait_type": "Face and Hair",
+        "value": "Civilian I (DarkI)  N"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Cambrians  Cells (Grey)  R"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Frog  N"
+      },
+      {
+        "trait_type": "Headgear",
+        "value": "Shell I  N"
+      },
+      {
+        "trait_type": "Foreground",
+        "value": "Butterflies (Dark)  R"
+      },
+      {
+        "trait_type": "Picture Frame",
+        "value": "Single (Dark)  N"
+      }
+    ]
+  }
+]
