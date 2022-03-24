@@ -1,5 +1,9 @@
 ERC20 CONTRACT ADDRESS : 0x757c9527d40893d0caefe98b665f4ad04d8bb077 <br>
-Link to etherscan: https://ropsten.etherscan.io/token/0x757c9527d40893d0caefe98b665f4ad04d8bb077
+Link to etherscan: https://ropsten.etherscan.io/token/0x757c9527d40893d0caefe98b665f4ad04d8bb077 <br>
+ERC20 Token Sale contract: 0x6ED95475389F6A68ad3cc27F56a821c7FeED802e
+Link to etherscan: https://ropsten.etherscan.io/address/0x6ed95475389f6a68ad3cc27f56a821c7feed802e#writeContract
+
+**TokenSale.sol** handles sales for our Atadia Token. This is achieved by calling the `setTokenSaleAddress` function on our token with the Vendor(in our case **TokenSale.sol**) contract address. 
 
 ERC721 CONTRACT ADDRESS: 0x89998b54b92ea31a45abd1eb4178783a759b1e6c <br>
 Link to etherscan: https://rinkeby.etherscan.io/address/0x89998b54b92ea31a45abd1eb4178783a759b1e6c
